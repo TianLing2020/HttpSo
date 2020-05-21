@@ -1,17 +1,24 @@
 # 简介
+#### 2020.5.21
+#### 今天发现被人抄袭。原封不动的抄袭还署了自己的名子。几次以作者身份提issues提醒，都被close最后删除，感觉挺有意思
+#### 看了那个人资料叫刘亮 武汉人 qq 360912716 三十多岁，搞这些十多年，一面绿墙，看起来是大佬，但他项目全是抄的。。。手法是改了readme和标题然后加捐款二维码，代码界的小偷乞丐。。。 难道因为被裁员为了生存不得不不要脸？
+#### 估计是个又老又蠢又丑又秃又穷又不要脸天天加班没朋友老婆五百斤孩子是畸形，社会人真复杂。。。
+#### 我是新手 从跑通大佬demo到继续开发也花了几天，遇到这种事感觉好气哦，分享是因为学习不顺畅，资料太少，很容易卡在基础问题上，找人问又多是半瓶水喜欢装逼还死要钱，分享希望让新新手有些启发
+#### 这个项目抄 https://github.com/NightTeam/HttpSo，这个作者是个真大佬 不仅写的通俗易懂还有完整代码，复现出来很容易，框架拓展也方便，我在自己的版本加了酷炫的监控界面和跑马灯，做这些大部分时间花在学习安卓多线程上。。。 
 
-#### AndServer+Service 打造 Android 服务器调用 so 文件
-#### 借鉴大佬的项目 https://github.com/NightTeam/HttpSo
-#### 实现调用抖音10.0.1 libcms.so的leviathan方法生成x-gorgon
+#### 最后 这个sb地址：https://github.com/satng 
+---
+## AndServer+Service 打造 Android 服务器调用 so 文件
+#### 借鉴大佬的项目 https://github.com/NightTeam/HttpSo 可直接在大佬框架上拓展，或复制我的代码修改
+#### 调用抖音10.0.1 libcms.so的leviathan方法生成x-gorgon
 #### 调用代码见https://github.com/heyaug/sign-algorithms
 
 #### 2020.5.7 
 #### 增加调用秒拍7.2.70 libte.so Decode方法解密response
 
 #### 2020.5.9
-#### 更新10.9.0抖音libcms.so，调用so生成x-gorgon
+#### 更新10.9.0抖音libcms.so，调用so生成0404开通x-gorgon，如果写爬虫建议用03版本的
 
 #### 用法
 ![](./png/1.png "")
-
 
